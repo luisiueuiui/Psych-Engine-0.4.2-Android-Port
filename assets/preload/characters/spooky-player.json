@@ -2,7 +2,7 @@
 	"animations": [
 		{
 			"offsets": [
-				59,
+				99,
 				-20
 			],
 			"loop": false,
@@ -13,30 +13,8 @@
 		},
 		{
 			"offsets": [
-				130,
-				-10
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "note sing left"
-		},
-		{
-			"offsets": [
-				-130,
-				-14
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "spooky sing right"
-		},
-		{
-			"offsets": [
-				-50,
-				-130
+				10,
+				-146
 			],
 			"loop": false,
 			"fps": 24,
@@ -77,7 +55,7 @@
 		},
 		{
 			"offsets": [
-				-20,
+				-60,
 				26
 			],
 			"loop": false,
@@ -85,12 +63,34 @@
 			"fps": 24,
 			"name": "spooky UP NOTE",
 			"indices": []
+		},
+		{
+			"offsets": [
+				-70,
+				-14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "note sing left"
+		},
+		{
+			"offsets": [
+				90,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "spooky sing right"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/spooky-kids-d-side",
+	"image": "characters/spooky_kids_assets",
 	"position": [
-		-50,
+		0,
 		200
 	],
 	"healthicon": "spooky",
