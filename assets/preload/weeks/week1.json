@@ -1,22 +1,48 @@
 {
 	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+		[
+			"pico-d-side",
+			"pico-d-side-corrupto",
+			[
+				255,
+				255,
+				100
+			]
+		],
+		[
+			"philly-nice-d-side",
+			"pico-d-side-corrupto2",
+			[
+				255,
+				255,
+				220
+			]
+		],
+		[
+			"blammed-d-side",
+			"pico-d-side",
+			[
+				75,
+				75,
+				135
+			]
+		]
 	],
-
+	"hideFreeplay": false,
+	"weekBackground": "stage",
 	"weekCharacters": [
-		"dad",
+		"pico",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
-	"weekBefore": "tutorial",
-	"weekName": "Week 1",
-	"startUnlocked": true,
-
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }
